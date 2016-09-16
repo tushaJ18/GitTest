@@ -15,7 +15,7 @@ public class Verein {
     private String stadt;
     private int budget;
     private Vector<Fussballer> spieler;
-
+    private String investor;
     public String getStadt() {
         return stadt;
     }
