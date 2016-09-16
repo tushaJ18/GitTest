@@ -12,7 +12,7 @@ import java.util.Date;
  * @author schueler
  */
 public class Person {
-    private String name;
+    private int name;
     private Date gebDatum;
     private boolean isMan;
     public Person(String name, Date gebDatum, int svNr) {
